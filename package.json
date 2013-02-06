@@ -1,0 +1,19 @@
+{
+  "name": "helper",
+  "keywords": ["helper"],
+  "description": "Minimal packages needed" ,
+  "version": "0.1.0",
+  "author": "Ayaz Pasha <ayazpasha2434@gmail.com>",
+  "directories" : {
+    "lib" : "./lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ayazpasha2434/helper.git"
+  },
+  "homepage": "https://github.com/ayazpasha2434/helper",
+  "main": "./lib/helper.js",
+  "engines": { "node": ">= 0.4.0" },
+  "dependencies" : {},
+  "licenses": [ { "type": "MIT" } ]
+}
