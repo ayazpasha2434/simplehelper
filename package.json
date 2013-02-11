@@ -3,7 +3,7 @@
   "keywords": ["simple","helper"],
   "description": "Node.js module for basic utility",
   "preferGlobal": "true",
-  "bin": { "simplehelper": "helper.js" },
+  "bin": { "simplehelper": "./lib/helper.js" },
   "version": "0.0.1",
   "author": "Ayaz Pasha <ayazpasha2434@gmail.com>",
   "directories" : {
