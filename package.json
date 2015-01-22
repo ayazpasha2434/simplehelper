@@ -9,7 +9,7 @@
   "bin": {
     "simplehelper": "./lib/helper.js"
   },
-  "version": "0.0.1",
+  "version": "0.1.0",
   "author": "Ayaz Pasha <ayazpasha2434@gmail.com>",
   "directories": {
     "lib": "./lib"
