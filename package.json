@@ -1,13 +1,18 @@
 {
   "name": "simplehelper",
-  "keywords": ["simple","helper"],
+  "keywords": [
+    "simple",
+    "helper"
+  ],
   "description": "Node.js module for basic utility",
   "preferGlobal": "true",
-  "bin": { "simplehelper": "./lib/helper.js" },
-  "version": "0.0.1",
+  "bin": {
+    "simplehelper": "./lib/helper.js"
+  },
+  "version": "0.1.0",
   "author": "Ayaz Pasha <ayazpasha2434@gmail.com>",
-  "directories" : {
-    "lib" : "./lib"
+  "directories": {
+    "lib": "./lib"
   },
   "repository": {
     "type": "git",
@@ -15,7 +20,10 @@
   },
   "homepage": "https://github.com/ayazpasha2434/helper",
   "main": "./lib/helper.js",
-  "engines": { "node": ">= 0.4.0" },
-  "dependencies" : {},
-  "engines": { "node": "*" }
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {
+    "process": "^0.10.0"
+  }
 }
